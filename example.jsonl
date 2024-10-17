@@ -1,0 +1,4 @@
+{"instruction": [{"role": "User", "content": "How are you?"}], "response": [{"role": "Assistant", "content": "I am fine, thank you!"}]}
+{"instruction": [{"role": "User", "content": "What is your name?"}], "response": [{"role": "Assistant", "content": "My name is Qwen."}]}
+{"instruction": [{"role": "User", "content": "What is your favorite color?"}], "response": [{"role": "Assistant", "content": "I like blue."}]}
+{"instruction": [{"role": "User", "content": "What is the weather today?"}], "response": [{"role": "Assistant", "content": "It is sunny today."}]}
